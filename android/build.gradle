@@ -50,7 +50,7 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.9'
     implementation 'com.github.EspressifApp:lib-esptouch-android:1.0.0'
     implementation 'com.github.EspressifApp:lib-esptouch-v2-android:2.1.0'
-    implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.4.0"
+    implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.3.0"
     //DEFAULT
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
