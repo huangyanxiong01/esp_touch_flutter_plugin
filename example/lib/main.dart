@@ -51,7 +51,7 @@ class _MyAppState extends State<MyApp> {
             onPressed: () async {
               // send password to esp
               String? message =
-                  await EspTouchFlutterPlugin.send("928078ok", count: 1);
+                  await EspTouchFlutterPlugin.send("12345678", count: 500);
               setState(() {
                 _state = message;
               });
