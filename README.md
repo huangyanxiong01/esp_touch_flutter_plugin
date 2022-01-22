@@ -21,7 +21,7 @@ rootProject.allprojects {
 }
 ```
 
-### Add permission add android to AndroidManifest.xml
+### Add permission to AndroidManifest.xml
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
